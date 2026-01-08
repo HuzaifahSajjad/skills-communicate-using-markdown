@@ -9,3 +9,6 @@
 ```
 System.out.println("Oh, you survived the memetic kill agent? Well then, welcome, authorized personnel.");
 ```
+- [ ] Secure
+- [ ] Contain
+- [ ] Protect

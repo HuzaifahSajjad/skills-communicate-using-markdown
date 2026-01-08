@@ -5,3 +5,7 @@
 ##### H5!!!!!
 ###### H6!!!!!!
 ![Berryman-Langford Memetic Kill Agent (It's an SCP reference)](https://scp-wiki.wdfiles.com/local--files/scp-001/fractal-mka.jpeg)
+
+```
+System.out.println("Oh, you survived the memetic kill agent? Well then, welcome, authorized personnel.");
+```
